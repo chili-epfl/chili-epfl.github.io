@@ -14,3 +14,4 @@ General purpose QML plugins
   - [qml-bluetooth-extras](doc/qml-bluetooth-extras/doc/index.html)
   - [qml-cache](doc/qml-cache/doc/index.html)
   - [qml-logger](doc/qml-logger/doc/index.html)
+  - [qml-tcpsockets](doc/qml-tcpsockets/doc/index.html)
