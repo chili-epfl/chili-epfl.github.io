@@ -7,3 +7,6 @@
 [submodule "doc/qml-cache"]
 	path = doc/qml-cache
 	url = https://github.com/chili-epfl/qml-cache
+[submodule "doc/qml-logger"]
+	path = doc/qml-logger
+	url = https://github.com/chili-epfl/qml-logger
