@@ -4,14 +4,18 @@ EPFL CHILI Software Docs
 Cellulo
 -------
 
-  - [cellulo-qml-plugin](doc/cellulo-qml-plugin/doc/index.html)
-  - [qml-physicomimetics](doc/qml-physicomimetics/doc/index.html)
+| Documentation | Repo URL |
+| ------------- | -------- |
+| [cellulo-qml-plugin](doc/cellulo-qml-plugin/doc/index.html)   |  https://c4science.ch/diffusion/505/ |
+| [qml-physicomimetics](doc/qml-physicomimetics/doc/index.html) |  https://c4science.ch/diffusion/6755/ |
 
 General purpose QML plugins
 ---------------------------
 
-  - [qml-extra-data-structures](doc/qml-extra-data-structures/doc/index.html)
-  - [qml-bluetooth-extras](doc/qml-bluetooth-extras/doc/index.html)
-  - [qml-cache](doc/qml-cache/doc/index.html)
-  - [qml-logger](doc/qml-logger/doc/index.html)
-  - [qml-tcpsockets](doc/qml-tcpsockets/doc/index.html)
+| Documentation | Repo URL |
+| ------------- | -------- |
+| [qml-extra-data-structures](doc/qml-extra-data-structures/doc/index.html) | https://github.com/chili-epfl/qml-extra-data-structures |
+| [qml-bluetooth-extras](doc/qml-bluetooth-extras/doc/index.html)           | https://github.com/chili-epfl/qml-bluetooth-extras |
+| [qml-cache](doc/qml-cache/doc/index.html)                                 | https://github.com/chili-epfl/qml-cache |
+| [qml-logger](doc/qml-logger/doc/index.html)                               | https://github.com/chili-epfl/qml-logger |
+| [qml-tcpsockets](doc/qml-tcpsockets/doc/index.html)                       | https://github.com/chili-epfl/qml-tcpsockets |
