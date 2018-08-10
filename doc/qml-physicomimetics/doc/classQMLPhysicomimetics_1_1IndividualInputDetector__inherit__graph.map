@@ -1,0 +1,5 @@
+<map id="QMLPhysicomimetics::IndividualInputDetector" name="QMLPhysicomimetics::IndividualInputDetector">
+<area shape="rect" id="node3" href="$classQMLPhysicomimetics_1_1GrabDetector.html" title="A detector of &quot;grab&quot;/&quot;release&quot; on individual swarm elements through their robots. ..." alt="" coords="313,5,464,47"/>
+<area shape="rect" id="node4" href="$classQMLPhysicomimetics_1_1KidnapDetector.html" title="A detector of &quot;kidnap&quot;/&quot;unkidnap&quot; on individual swarm elements. " alt="" coords="313,71,464,112"/>
+<area shape="rect" id="node5" href="$classQMLPhysicomimetics_1_1LaunchDetector.html" title="Detects grasp&#45;&gt;accelerate&#45;&gt;release motion inputs. " alt="" coords="313,136,464,177"/>
+</map>

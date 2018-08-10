@@ -1,0 +1,5 @@
+<map id="QMLPhysicomimetics::IndividualForce" name="QMLPhysicomimetics::IndividualForce">
+<area shape="rect" id="node3" href="$classQMLPhysicomimetics_1_1EnforceLinearVelocity.html" title="Describes linear velocity enforcing force that is F = c*((V/|V|)*(V_desired &#45; |V|), i.e applies a force in the direction of travel until the desired velocity is reached. " alt="" coords="313,5,471,47"/>
+<area shape="rect" id="node4" href="$classQMLPhysicomimetics_1_1IndividualViscousDamping.html" title="Describes viscous damping force that is F = &#45;c*V. " alt="" coords="300,71,484,112"/>
+<area shape="rect" id="node5" href="$classQMLPhysicomimetics_1_1RobotPositionCatchUp.html" title="Forces the position of the element towards the position of the robot if too far away. " alt="" coords="310,136,474,177"/>
+</map>

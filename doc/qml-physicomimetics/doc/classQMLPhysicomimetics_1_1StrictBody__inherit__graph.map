@@ -1,0 +1,5 @@
+<map id="QMLPhysicomimetics::StrictBody" name="QMLPhysicomimetics::StrictBody">
+<area shape="rect" id="node4" href="$classQMLPhysicomimetics_1_1StrictContainer.html" title="Describes a global container that doesn&#39;t let elements exit, no matter what. " alt="" coords="5,259,156,300"/>
+<area shape="rect" id="node5" href="$classQMLPhysicomimetics_1_1StrictObstacle.html" title="Describes a global obstacle that doesn&#39;t let elements enter, no matter what. " alt="" coords="180,259,331,300"/>
+<area shape="rect" id="node2" href="$classQMLPhysicomimetics_1_1CollectiveRule.html" title="Describes a global, time&#45;independent rule that acts on each swarm element independently but equally..." alt="" coords="92,80,243,121"/>
+</map>

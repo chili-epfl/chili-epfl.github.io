@@ -1,0 +1,8 @@
+<map id="QMLPhysicomimetics::GlobalForce" name="QMLPhysicomimetics::GlobalForce">
+<area shape="rect" id="node3" href="$classQMLPhysicomimetics_1_1BouncyBody.html" title="Describes a global obstacle/container that doesn&#39;t let elements enter/exit, with a force..." alt="" coords="308,37,459,79"/>
+<area shape="rect" id="node6" href="$classQMLPhysicomimetics_1_1GlobalKineticFriction.html" title="Describes kinetic friction force that is F = &#45;mu_k*m*g*V_unit*smoothingFactor(V) " alt="" coords="308,103,459,144"/>
+<area shape="rect" id="node7" href="$classQMLPhysicomimetics_1_1GlobalRandomForce.html" title="Describes a force in x,y with a random direction that will lead to Brownian motion. " alt="" coords="308,168,459,209"/>
+<area shape="rect" id="node8" href="$classQMLPhysicomimetics_1_1GlobalViscousDamping.html" title="Describes viscous damping force that is F = &#45;c*V. " alt="" coords="300,233,467,275"/>
+<area shape="rect" id="node4" href="$classQMLPhysicomimetics_1_1BouncyContainer.html" title="Describes a global container that doesn&#39;t let elements exit, with a force. " alt="" coords="515,5,665,47"/>
+<area shape="rect" id="node5" href="$classQMLPhysicomimetics_1_1BouncyObstacle.html" title="Describes a global obstacle that doesn&#39;t let elements enter, with a force. " alt="" coords="515,71,665,112"/>
+</map>

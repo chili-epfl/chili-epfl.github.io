@@ -1,0 +1,5 @@
+<map id="QMLPhysicomimetics::IndividualColorOutput" name="QMLPhysicomimetics::IndividualColorOutput">
+<area shape="rect" id="node3" href="$classQMLPhysicomimetics_1_1BinaryColorOutput.html" title="Describes two colors; one for false target, one for true target. " alt="" coords="305,5,456,47"/>
+<area shape="rect" id="node4" href="$classQMLPhysicomimetics_1_1ConstantColorOutput.html" title="Describes a constant color output. " alt="" coords="304,71,457,112"/>
+<area shape="rect" id="node5" href="$classQMLPhysicomimetics_1_1GradientColorOutput.html" title="Describes a color interval with multiple stops. " alt="" coords="305,136,456,177"/>
+</map>

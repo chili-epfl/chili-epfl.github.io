@@ -1,0 +1,7 @@
+<map id="QMLPhysicomimetics::CollectiveInteraction" name="QMLPhysicomimetics::CollectiveInteraction">
+<area shape="rect" id="node3" href="$classQMLPhysicomimetics_1_1HeatLoss.html" title="Describes heat loss from exposed sides of all particles; requires that the swarm elements contain a P..." alt="" coords="300,5,451,47"/>
+<area shape="rect" id="node4" href="$classQMLPhysicomimetics_1_1HeatTransfer.html" title="Describes heat transfer between all particles; requires that the swarm elements contain a real proper..." alt="" coords="300,71,451,112"/>
+<area shape="rect" id="node5" href="$classQMLPhysicomimetics_1_1ParticleExclusion.html" title="Describes a custom interaction similar to the one resulting from the Pauli Exclusion Principle but wi..." alt="" coords="300,136,451,177"/>
+<area shape="rect" id="node6" href="$classQMLPhysicomimetics_1_1PotentialWell.html" title="Describes a custom interaction similar to Morse/Lennard&#45;Jones but with much less steep repulsive comp..." alt="" coords="300,201,451,243"/>
+<area shape="rect" id="node7" href="$classQMLPhysicomimetics_1_1SlidingForce.html" title="Describes a custom interaction where elements are pushed with forces that will make them slide over e..." alt="" coords="300,267,451,308"/>
+</map>

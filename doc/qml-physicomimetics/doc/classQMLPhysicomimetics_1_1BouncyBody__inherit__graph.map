@@ -1,0 +1,5 @@
+<map id="QMLPhysicomimetics::BouncyBody" name="QMLPhysicomimetics::BouncyBody">
+<area shape="rect" id="node4" href="$classQMLPhysicomimetics_1_1BouncyContainer.html" title="Describes a global container that doesn&#39;t let elements exit, by applying a force. ..." alt="" coords="5,259,156,300"/>
+<area shape="rect" id="node5" href="$classQMLPhysicomimetics_1_1BouncyObstacle.html" title="Describes a global obstacle that doesn&#39;t let elements enter, by applying a force. ..." alt="" coords="180,259,331,300"/>
+<area shape="rect" id="node2" href="$classQMLPhysicomimetics_1_1CollectiveForce.html" title="Describes a collective, time&#45;independent force that acts on each swarm element, whose nature may depe..." alt="" coords="92,80,243,121"/>
+</map>

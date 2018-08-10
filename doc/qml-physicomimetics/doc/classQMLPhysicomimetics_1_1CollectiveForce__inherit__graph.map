@@ -1,0 +1,11 @@
+<map id="QMLPhysicomimetics::CollectiveForce" name="QMLPhysicomimetics::CollectiveForce">
+<area shape="rect" id="node3" href="$classQMLPhysicomimetics_1_1BouncyBody.html" title="Describes a global obstacle/container that doesn&#39;t let elements enter/exit, by applying a force..." alt="" coords="308,37,459,79"/>
+<area shape="rect" id="node6" href="$classQMLPhysicomimetics_1_1GlobalKineticFriction.html" title="Describes a global kinetic friction force that is F = &#45;mu_k*m*g*|V|*smoothingFactor(V) ..." alt="" coords="308,103,459,144"/>
+<area shape="rect" id="node7" href="$classQMLPhysicomimetics_1_1GlobalRandomForce.html" title="Describes a force in x,y with a random direction that will lead to Brownian motion. " alt="" coords="308,168,459,209"/>
+<area shape="rect" id="node8" href="$classQMLPhysicomimetics_1_1GlobalViscousDamping.html" title="Describes viscous damping force that is F = &#45;c*V. " alt="" coords="300,233,467,275"/>
+<area shape="rect" id="node9" href="$classQMLPhysicomimetics_1_1ParticleExclusion.html" title="Describes a custom interaction similar to the one resulting from the Pauli Exclusion Principle but wi..." alt="" coords="308,299,459,340"/>
+<area shape="rect" id="node10" href="$classQMLPhysicomimetics_1_1PotentialWell.html" title="Describes a custom interaction similar to Morse/Lennard&#45;Jones but with much less steep repulsive comp..." alt="" coords="308,364,459,405"/>
+<area shape="rect" id="node11" href="$classQMLPhysicomimetics_1_1SlidingForce.html" title="Describes a custom interaction where elements are pushed with forces that will make them slide over e..." alt="" coords="308,429,459,471"/>
+<area shape="rect" id="node4" href="$classQMLPhysicomimetics_1_1BouncyContainer.html" title="Describes a global container that doesn&#39;t let elements exit, by applying a force. ..." alt="" coords="515,5,665,47"/>
+<area shape="rect" id="node5" href="$classQMLPhysicomimetics_1_1BouncyObstacle.html" title="Describes a global obstacle that doesn&#39;t let elements enter, by applying a force. ..." alt="" coords="515,71,665,112"/>
+</map>

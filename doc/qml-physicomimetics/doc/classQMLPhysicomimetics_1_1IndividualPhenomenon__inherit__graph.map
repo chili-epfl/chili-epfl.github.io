@@ -1,0 +1,4 @@
+<map id="QMLPhysicomimetics::IndividualPhenomenon" name="QMLPhysicomimetics::IndividualPhenomenon">
+<area shape="rect" id="node3" href="$classQMLPhysicomimetics_1_1StateDependentColorOutput.html" title="Describes a color with an effect to be set on the element&#39;s robot if it enters the given state..." alt="" coords="315,5,510,47"/>
+<area shape="rect" id="node4" href="$classQMLPhysicomimetics_1_1StateDependentGradientColorOutput.html" title="Describes a color interval with multiple stops, activated on a given element state. " alt="" coords="311,71,515,127"/>
+</map>
