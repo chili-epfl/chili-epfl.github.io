@@ -13,3 +13,6 @@
 [submodule "doc/qml-tcpsockets"]
 	path = doc/qml-tcpsockets
 	url = https://github.com/chili-epfl/qml-tcpsockets
+[submodule "doc/qml-ar"]
+	path = doc/qml-ar
+	url = https://github.com/chili-epfl/qml-ar
