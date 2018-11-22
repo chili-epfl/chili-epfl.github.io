@@ -19,4 +19,5 @@ General purpose QML plugins
 | [qml-cache](doc/qml-cache/doc/index.html)                                 | https://github.com/chili-epfl/qml-cache |
 | [qml-logger](doc/qml-logger/doc/index.html)                               | https://github.com/chili-epfl/qml-logger |
 | [qml-tcpsockets](doc/qml-tcpsockets/doc/index.html)                       | https://github.com/chili-epfl/qml-tcpsockets |
+| [qml-imu](doc/qml-imu/doc/index.html)                                     | https://github.com/chili-epfl/qml-imu |
 | [qml-ar](doc/qml-ar/doc/index.html)                                       | https://github.com/chili-epfl/qml-ar |

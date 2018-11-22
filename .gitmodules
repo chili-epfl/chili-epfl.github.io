@@ -16,3 +16,6 @@
 [submodule "doc/qml-ar"]
 	path = doc/qml-ar
 	url = https://github.com/chili-epfl/qml-ar
+[submodule "doc/qml-imu"]
+	path = doc/qml-imu
+	url = https://github.com/chili-epfl/qml-imu
