@@ -1,16 +1,16 @@
-EPFL CHILI Software Docs
-========================
+EPFL CHILI
+==========
 
-Cellulo
--------
+Cellulo docs
+------------
 
 | Documentation | Repo URL |
 | ------------- | -------- |
 | [cellulo-qml-plugin](doc/cellulo-qml-plugin/doc/index.html)   |  https://c4science.ch/diffusion/505/ |
 | [qml-physicomimetics](doc/qml-physicomimetics/doc/index.html) |  https://c4science.ch/diffusion/6755/ |
 
-General purpose QML plugins
----------------------------
+General purpose QML plugin docs
+-------------------------------
 
 | Documentation | Repo URL |
 | ------------- | -------- |
@@ -21,3 +21,8 @@ General purpose QML plugins
 | [qml-tcpsockets](doc/qml-tcpsockets/doc/index.html)                       | https://github.com/chili-epfl/qml-tcpsockets |
 | [qml-imu](doc/qml-imu/doc/index.html)                                     | https://github.com/chili-epfl/qml-imu |
 | [qml-ar](doc/qml-ar/doc/index.html)                                       | https://github.com/chili-epfl/qml-ar |
+
+Privacy policies
+----------------
+
+[Cellulo Swarm AR Demo](privacy-policies/cellulo-swarm-ar-demo-privacy-policy.html)
