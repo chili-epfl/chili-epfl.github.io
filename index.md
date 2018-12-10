@@ -25,4 +25,5 @@ General purpose QML plugin docs
 Privacy policies
 ----------------
 
-[Cellulo Swarm AR Demo](privacy-policies/cellulo-swarm-ar-demo-privacy-policy.html)
+  - [Cellulo Swarm AR Demo](privacy-policies/cellulo-swarm-ar-demo-privacy-policy.html)
+  - [Cellulo Promo Demos](privacy-policies/cellulo-promo-demos-privacy-policy.html)
