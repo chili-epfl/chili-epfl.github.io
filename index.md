@@ -6,6 +6,7 @@ Cellulo docs
 
 | Documentation | Repo URL |
 | ------------- | -------- |
+| [cellulo-unity](doc/cellulo-unity/doc/html/index.html)   |  tba |
 | [cellulo-qml-plugin](doc/cellulo-qml-plugin/doc/index.html)   |  https://c4science.ch/diffusion/505/ |
 | [qml-physicomimetics](doc/qml-physicomimetics/doc/index.html) |  https://c4science.ch/diffusion/6755/ |
 
