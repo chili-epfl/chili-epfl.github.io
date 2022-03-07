@@ -1,0 +1,4 @@
+<map id="ScanPanel" name="ScanPanel">
+<area shape="rect" id="node1" title="This class manages the panel that allows the user to scan for cellulo robots" alt="" coords="23,80,112,107"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,5,129,32"/>
+</map>

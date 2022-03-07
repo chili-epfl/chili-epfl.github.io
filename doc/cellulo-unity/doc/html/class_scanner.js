@@ -1,10 +1,10 @@
 var class_scanner =
 [
     [ "Scanner", "class_scanner.html#acfe1c52d3ecbe3273ac4551ab39b26a7", null ],
-    [ "clearRobotsFound", "class_scanner.html#ac08005affc5b87ce4f8ac5c47e96a892", null ],
-    [ "getMacAddrOfRobot", "class_scanner.html#a05f3ed9ef1226bd3f9e6c589ae7fd625", null ],
-    [ "getNumberOfRobotsFound", "class_scanner.html#aaaf5f14a6aa5c3c2f08f8573ef01f19c", null ],
-    [ "startScanning", "class_scanner.html#ae7acb6f09fe331044fc5cec1883be8d1", null ],
-    [ "stopScanning", "class_scanner.html#a7e31c23a07a18a51248ecace07e03b55", null ],
+    [ "ClearRobotsFound", "class_scanner.html#ad60b3590774df0539c0b45902d52f42b", null ],
+    [ "GetMacAddrOfRobot", "class_scanner.html#a0eac72729a32835dbf63cb5723e9e8f0", null ],
+    [ "GetNumberOfRobotsFound", "class_scanner.html#a19f6728b6e5b4248e21338eca782e780", null ],
+    [ "StartScanning", "class_scanner.html#ad9948c40760cb0322b98693ec3fc3815", null ],
+    [ "StopScanning", "class_scanner.html#a1797bf6705ba0f8304ea46ab3fe755c4", null ],
     [ "isScanning", "class_scanner.html#a9de48d607f01e2d040581303f4364126", null ]
 ];

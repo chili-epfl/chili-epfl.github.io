@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['gesture_78',['Gesture',['../_cellulo_config_8cs.html#a4c115a495b9dd6dfa20244e79f4fdc12',1,'CelluloConfig.cs']]],
+  ['gestureenabled_79',['GestureEnabled',['../class_cellulo.html#ac43f7daab0ed609b0481a585e80a5c64',1,'Cellulo']]],
+  ['gesturehold_80',['GestureHold',['../_cellulo_config_8cs.html#a4c115a495b9dd6dfa20244e79f4fdc12a9ea294e3513c9c54294f829c751b6103',1,'CelluloConfig.cs']]],
+  ['gesturenone_81',['GestureNone',['../_cellulo_config_8cs.html#a4c115a495b9dd6dfa20244e79f4fdc12a21495da2874a0d9a515c5f8ae05d2ca5',1,'CelluloConfig.cs']]],
+  ['gesturenumelements_82',['GestureNumElements',['../_cellulo_config_8cs.html#a4c115a495b9dd6dfa20244e79f4fdc12a52a5bd1987277b4f1038d0543f233602',1,'CelluloConfig.cs']]],
+  ['getbatterystate_83',['GetBatteryState',['../class_cellulo.html#a2b063e808c10a505f63124e1104326c2',1,'Cellulo']]],
+  ['getconnectionstatus_84',['GetConnectionStatus',['../class_cellulo.html#ab10d34ceb4c291b0d0798d5ddf2aa1cb',1,'Cellulo']]],
+  ['getframerate_85',['GetFramerate',['../class_cellulo.html#ac7b781c9ccc9daed9a97e4fe354f6294',1,'Cellulo']]],
+  ['getgesture_86',['GetGesture',['../class_cellulo.html#a361466c4548503cd347a82eeca5f4d3a',1,'Cellulo']]],
+  ['getid_87',['GetId',['../class_cellulo_list_element.html#a63ad828167e40dfb1bfec1d5b782884c',1,'CelluloListElement']]],
+  ['getkidnapped_88',['GetKidnapped',['../class_cellulo.html#a347ddd166bdfc7d016c17ddb93a7d0a8',1,'Cellulo']]],
+  ['getlasttimestamp_89',['GetLastTimeStamp',['../class_cellulo.html#a9d3360ad59ceb006c0e04dfae31784b5',1,'Cellulo']]],
+  ['getlowbattery_90',['GetLowBattery',['../class_cellulo.html#ae752b1f1af7fc8879d72854b743f48ba',1,'Cellulo']]],
+  ['getmacaddr_91',['GetMacAddr',['../class_cellulo.html#a4ef7ce3d87260463c85be8bf34396f72',1,'Cellulo.GetMacAddr()'],['../class_scanner_list_element.html#a977ff08f7895fdfab05f81b0ff0598ad',1,'ScannerListElement.GetMacAddr()']]],
+  ['getmacaddrofrobot_92',['GetMacAddrOfRobot',['../class_scanner.html#a0eac72729a32835dbf63cb5723e9e8f0',1,'Scanner']]],
+  ['getnumberofrobotsfound_93',['GetNumberOfRobotsFound',['../class_scanner.html#a19f6728b6e5b4248e21338eca782e780',1,'Scanner']]],
+  ['getshuttingdown_94',['GetShuttingdown',['../class_cellulo.html#a81bbeb5bf0b22e791ca6b384d7319ef7',1,'Cellulo']]],
+  ['getsteering_95',['GetSteering',['../class_agent_behaviour.html#afd387aa2ef418fa1e9f7fda311f09ae8',1,'AgentBehaviour.GetSteering()'],['../class_follow_mouse_behavior.html#a1b18375a5cfdaab1b08666a4a631e2e1',1,'FollowMouseBehavior.GetSteering()'],['../class_sheep_behavior.html#aaa86b9f4ed7c6d8c1d715f5e6a18850d',1,'SheepBehavior.GetSteering()'],['../class_move_with_keyboard_behavior.html#a349d70bfcfb718692e69c3c436a2e009',1,'MoveWithKeyboardBehavior.GetSteering()']]],
+  ['gettheta_96',['GetTheta',['../class_cellulo.html#a291f397696a7fde8d7742af4a901496e',1,'Cellulo']]],
+  ['gettimestampingenabled_97',['GetTimestampingEnabled',['../class_cellulo.html#a5f7efc282c0ee519087a1f3737733933',1,'Cellulo']]],
+  ['gettouch_98',['GetTouch',['../class_cellulo.html#aa6e8a483e04ecf06a49c053c73c27d3a',1,'Cellulo']]],
+  ['getx_99',['GetX',['../class_cellulo.html#a96315fa009d0e469a46c0636004759ac',1,'Cellulo']]],
+  ['gety_100',['GetY',['../class_cellulo.html#ac7b9e9d99ae6933dafc5d38c61b3ce8a',1,'Cellulo']]],
+  ['ghostsheepbehavior_2ecs_101',['GhostSheepBehavior.cs',['../_ghost_sheep_behavior_8cs.html',1,'']]]
+];
