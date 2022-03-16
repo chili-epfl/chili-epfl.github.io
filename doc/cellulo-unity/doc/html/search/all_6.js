@@ -17,11 +17,12 @@ var searchData=
   ['getmacaddrofrobot_92',['GetMacAddrOfRobot',['../class_scanner.html#a0eac72729a32835dbf63cb5723e9e8f0',1,'Scanner']]],
   ['getnumberofrobotsfound_93',['GetNumberOfRobotsFound',['../class_scanner.html#a19f6728b6e5b4248e21338eca782e780',1,'Scanner']]],
   ['getshuttingdown_94',['GetShuttingdown',['../class_cellulo.html#a81bbeb5bf0b22e791ca6b384d7319ef7',1,'Cellulo']]],
-  ['getsteering_95',['GetSteering',['../class_agent_behaviour.html#afd387aa2ef418fa1e9f7fda311f09ae8',1,'AgentBehaviour.GetSteering()'],['../class_follow_mouse_behavior.html#a1b18375a5cfdaab1b08666a4a631e2e1',1,'FollowMouseBehavior.GetSteering()'],['../class_sheep_behavior.html#aaa86b9f4ed7c6d8c1d715f5e6a18850d',1,'SheepBehavior.GetSteering()'],['../class_move_with_keyboard_behavior.html#a349d70bfcfb718692e69c3c436a2e009',1,'MoveWithKeyboardBehavior.GetSteering()']]],
+  ['getsteering_95',['GetSteering',['../class_agent_behaviour.html#afd387aa2ef418fa1e9f7fda311f09ae8',1,'AgentBehaviour.GetSteering()'],['../class_follow_mouse_behavior.html#a1b18375a5cfdaab1b08666a4a631e2e1',1,'FollowMouseBehavior.GetSteering()'],['../class_ghost_sheep_behavior.html#a7de4b24fcd78d1d22913cc8ae51f97da',1,'GhostSheepBehavior.GetSteering()'],['../class_move_with_keyboard_behavior.html#a349d70bfcfb718692e69c3c436a2e009',1,'MoveWithKeyboardBehavior.GetSteering()']]],
   ['gettheta_96',['GetTheta',['../class_cellulo.html#a291f397696a7fde8d7742af4a901496e',1,'Cellulo']]],
   ['gettimestampingenabled_97',['GetTimestampingEnabled',['../class_cellulo.html#a5f7efc282c0ee519087a1f3737733933',1,'Cellulo']]],
   ['gettouch_98',['GetTouch',['../class_cellulo.html#aa6e8a483e04ecf06a49c053c73c27d3a',1,'Cellulo']]],
   ['getx_99',['GetX',['../class_cellulo.html#a96315fa009d0e469a46c0636004759ac',1,'Cellulo']]],
   ['gety_100',['GetY',['../class_cellulo.html#ac7b9e9d99ae6933dafc5d38c61b3ce8a',1,'Cellulo']]],
-  ['ghostsheepbehavior_2ecs_101',['GhostSheepBehavior.cs',['../_ghost_sheep_behavior_8cs.html',1,'']]]
+  ['ghostsheepbehavior_101',['GhostSheepBehavior',['../class_ghost_sheep_behavior.html',1,'']]],
+  ['ghostsheepbehavior_2ecs_102',['GhostSheepBehavior.cs',['../_ghost_sheep_behavior_8cs.html',1,'']]]
 ];

@@ -34,7 +34,7 @@ var searchData=
   ['shutdownall_344',['ShutdownAll',['../class_scan_panel.html#a7c0d320cdc611fd22dc90e3cf3a8d381',1,'ScanPanel']]],
   ['simplevibrate_345',['SimpleVibrate',['../class_cellulo.html#ae5440c5a74b593c7b774979677b5f9e7',1,'Cellulo']]],
   ['spawn_346',['Spawn',['../class_cellulo_agent.html#a1da27bf7b55c1fd6dbdbabbf9c5aa7ba',1,'CelluloAgent']]],
-  ['start_347',['Start',['../class_sheep_behavior.html#a11898a1f9a0cdeef893d6bcb8c50a5ad',1,'SheepBehavior']]],
+  ['start_347',['Start',['../class_ghost_sheep_behavior.html#aa1123316ddf5cb976b36ab4f0040a0e2',1,'GhostSheepBehavior']]],
   ['startscanning_348',['StartScanning',['../class_scanner.html#ad9948c40760cb0322b98693ec3fc3815',1,'Scanner']]],
   ['steering_349',['Steering',['../class_steering.html#a97109bbbc0c22a4be1ad5beb9ec65a57',1,'Steering']]],
   ['stopscanning_350',['StopScanning',['../class_scanner.html#a1797bf6705ba0f8304ea46ab3fe755c4',1,'Scanner']]],

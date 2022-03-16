@@ -1,14 +1,14 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$class_sheep_behavior.html" title=" " alt="" coords="5,157,125,184"/>
-<area shape="rect" id="node2" href="$class_agent_behaviour.html" title=" " alt="" coords="185,31,312,57"/>
-<area shape="rect" id="node5" href="$class_cellulo_connection.html" title="Manage Connection and its UI of the Cellulo Robot" alt="" coords="179,81,319,108"/>
-<area shape="rect" id="node6" href="$class_cellulo_list_element.html" title="Manage one UI element of the Cellulo list" alt="" coords="177,132,321,159"/>
-<area shape="rect" id="node7" href="$class_cellulo_manager.html" title="The main cellulo manager" alt="" coords="187,183,311,209"/>
-<area shape="rect" id="node8" href="$class_scanner_list_element.html" title="This class manages one element of the Scanner cellulo list" alt="" coords="173,233,324,260"/>
-<area shape="rect" id="node9" href="$class_scan_panel.html" title="This class manages the panel that allows the user to scan for cellulo robots" alt="" coords="204,284,293,311"/>
-<area shape="rect" id="node10" href="$class_steering_agent.html" title="This class represent the basic steering agent, it takes care" alt="" coords="191,335,306,361"/>
-<area shape="rect" id="node3" href="$class_follow_mouse_behavior.html" title=" " alt="" coords="393,5,558,32"/>
-<area shape="rect" id="node4" href="$class_move_with_keyboard_behavior.html" title=" " alt="" coords="372,56,579,83"/>
-<area shape="rect" id="node11" href="$class_cellulo_agent.html" title="This class manages a cellulo agent in the game" alt="" coords="423,335,528,361"/>
-<area shape="rect" id="node12" href="$class_cellulo_agent_rigid_body.html" title="This class adds rigid body to a cellulo and manages the consequences of this: steering vector is now ..." alt="" coords="627,335,797,361"/>
+<area shape="rect" id="node1" href="$class_move_with_keyboard_behavior.html" title=" " alt="" coords="5,157,212,184"/>
+<area shape="rect" id="node2" href="$class_agent_behaviour.html" title=" " alt="" coords="272,31,399,57"/>
+<area shape="rect" id="node5" href="$class_cellulo_connection.html" title="Manage Connection and its UI of the Cellulo Robot" alt="" coords="265,81,405,108"/>
+<area shape="rect" id="node6" href="$class_cellulo_list_element.html" title="Manage one UI element of the Cellulo list" alt="" coords="263,132,407,159"/>
+<area shape="rect" id="node7" href="$class_cellulo_manager.html" title="The main cellulo manager" alt="" coords="273,183,397,209"/>
+<area shape="rect" id="node8" href="$class_scanner_list_element.html" title="This class manages one element of the Scanner cellulo list" alt="" coords="260,233,411,260"/>
+<area shape="rect" id="node9" href="$class_scan_panel.html" title="This class manages the panel that allows the user to scan for cellulo robots" alt="" coords="291,284,380,311"/>
+<area shape="rect" id="node10" href="$class_steering_agent.html" title="This class represent the basic steering agent, it takes care" alt="" coords="278,335,393,361"/>
+<area shape="rect" id="node3" href="$class_follow_mouse_behavior.html" title=" " alt="" coords="459,5,624,32"/>
+<area shape="rect" id="node4" href="$class_ghost_sheep_behavior.html" title=" " alt="" coords="462,56,621,83"/>
+<area shape="rect" id="node11" href="$class_cellulo_agent.html" title="This class manages a cellulo agent in the game" alt="" coords="489,335,594,361"/>
+<area shape="rect" id="node12" href="$class_cellulo_agent_rigid_body.html" title="This class adds rigid body to a cellulo and manages the consequences of this: steering vector is now ..." alt="" coords="672,335,843,361"/>
 </map>

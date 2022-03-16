@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['movewithkeyboardbehavior_231',['MoveWithKeyboardBehavior',['../class_move_with_keyboard_behavior.html',1,'']]]
+  ['ghostsheepbehavior_231',['GhostSheepBehavior',['../class_ghost_sheep_behavior.html',1,'']]]
 ];

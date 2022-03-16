@@ -7,7 +7,7 @@ var dir_00515ab752496965b34fac72579d362d =
       [ "FollowMouseBehavior", "class_follow_mouse_behavior.html", "class_follow_mouse_behavior" ]
     ] ],
     [ "GhostSheepBehavior.cs", "_ghost_sheep_behavior_8cs.html", [
-      [ "SheepBehavior", "class_sheep_behavior.html", "class_sheep_behavior" ]
+      [ "GhostSheepBehavior", "class_ghost_sheep_behavior.html", "class_ghost_sheep_behavior" ]
     ] ],
     [ "MoveWithKeyboardBehavior.cs", "_move_with_keyboard_behavior_8cs.html", "_move_with_keyboard_behavior_8cs" ]
 ];

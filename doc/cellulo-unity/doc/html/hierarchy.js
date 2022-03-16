@@ -4,8 +4,8 @@ var hierarchy =
     [ "MonoBehaviour", null, [
       [ "AgentBehaviour", "class_agent_behaviour.html", [
         [ "FollowMouseBehavior", "class_follow_mouse_behavior.html", null ],
-        [ "MoveWithKeyboardBehavior", "class_move_with_keyboard_behavior.html", null ],
-        [ "SheepBehavior", "class_sheep_behavior.html", null ]
+        [ "GhostSheepBehavior", "class_ghost_sheep_behavior.html", null ],
+        [ "MoveWithKeyboardBehavior", "class_move_with_keyboard_behavior.html", null ]
       ] ],
       [ "CelluloConnection", "class_cellulo_connection.html", null ],
       [ "CelluloListElement", "class_cellulo_list_element.html", null ],
