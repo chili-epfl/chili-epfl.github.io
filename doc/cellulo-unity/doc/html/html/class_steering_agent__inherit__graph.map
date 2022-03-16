@@ -1,0 +1,6 @@
+<map id="SteeringAgent" name="SteeringAgent">
+<area shape="rect" id="node1" title="This class represent the basic steering agent, it takes care" alt="" coords="33,80,148,107"/>
+<area shape="rect" id="node3" href="$class_cellulo_agent.html" title="This class manages a cellulo agent in the game" alt="" coords="38,155,143,181"/>
+<area shape="rect" id="node2" title=" " alt="" coords="29,5,153,32"/>
+<area shape="rect" id="node4" href="$class_cellulo_agent_rigid_body.html" title="This class adds rigid body to a cellulo and manages the consequences of this: steering vector is now ..." alt="" coords="5,229,176,256"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="AgentBehaviour" name="AgentBehaviour">
+<area shape="rect" id="node1" title=" " alt="" coords="25,273,152,300"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,5,129,32"/>
+<area shape="rect" id="node4" href="$class_steering_agent.html" title=" " alt="" coords="105,95,219,121"/>
+<area shape="rect" id="node3" href="$class_cellulo_agent.html" title="This class manages a cellulo object in the game" alt="" coords="109,184,215,211"/>
+<area shape="rect" id="node5" href="$class_steering.html" title=" " alt="" coords="153,5,229,32"/>
+<area shape="rect" id="node6" href="$class_cellulo.html" title="This class represents a real cellulo robot" alt="" coords="243,95,310,121"/>
+</map>
