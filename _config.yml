@@ -1,3 +1,3 @@
 include:
-  - "/doc/cellulo-unity/doc/html/_*.html"
+  - "doc/cellulo-unity/doc/html/_*.html"
 
