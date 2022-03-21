@@ -1,3 +1,2 @@
-include:
-  - "doc/cellulo-unity/doc/html/_*.html"
+include: ["doc/cellulo-unity/doc/html/_*.html","_*.html"]
 
