@@ -1,1 +1,3 @@
-include: ['doc/.nojekyll']
+include:
+  - "/doc/cellulo-unity/doc/html/_*.html"
+
